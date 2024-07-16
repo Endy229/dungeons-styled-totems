@@ -1,5 +1,6 @@
 # dungeons-styled-totems
 GitHub repository of the Dungeons Styled Totems
+Modrinth link: https://modrinth.com/resourcepack/dungeons-styled-friendsfoes-totems
 
 This resourcepack replaces the models of the Totem of Freezing and Totem of Illusion items from Friends&Foes with those similar to the Totem of Undying from the Dungeons Style resourcepack
 
